@@ -14,26 +14,20 @@ main h4{
 
 p {
     font-size: 20px;
-    border: 1px solid black;
-    margin: 15px;
+    border: 2px solid black;
+    margin-right: 150px;
     padding: 15px;
     border-radius: 15px;
-    background-color: cadetblue;
-    transition: color 0.3s ease
+    text-align: left;
 }
 main h2{
     color: black;
-    background-color: cadetblue;
     text-align: center;
     font-family: Arial;
     border: 2px dashed black;
     padding: 10px;
     margin: -10px;
 }
-  p:hover {
-      color:white;
-  }
-
   header{
     background-color: cadetblue;
     padding: 10px;
@@ -50,13 +44,20 @@ main h2{
     padding: 4px;
     text-decoration: solid cadetblue;
   }
-
-  h5 {
+  h3{
     text-align: center;
-    color: black;
     font-size: 30px;
-    border: 2px dashed black;
-    padding: 10px;
-    margin: -10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
     background-color: cadetblue;
+    padding: 7px;
+  }
+  h6{
+    font-size: 20px;
+    border: 2px solid black;
+    margin-left: 150px;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
   }
