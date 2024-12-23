@@ -54,3 +54,7 @@ main h2{
     padding: 7px;
   }
 
+:root{
+   scroll-behavior: smooth;
+    }
+
